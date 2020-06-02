@@ -1,0 +1,15 @@
+{
+  "name": "bon_appetit",
+  "version": "1.0.0",
+  "description": "demo restaurant",
+  "main": "index.js",
+  "homepage": "https://vinthrive.github.io/bon_appetit",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Alvin Blanco",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
